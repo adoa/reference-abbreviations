@@ -629,3 +629,4 @@ Wiley Interdisciplinary Reviews: Computational Statistics = Wiley Interdiscip. R
 arXiv.org, e-Print Archive Astrophysics = arXiv.org, e-Print Arch. Astrophys.
 arXiv.org, e-Print Archive Condensed Matter = arXiv.org, e-Print Arch. Condens. Matter
 arXiv.org, e-Print Archive Physics = arXiv.org, e-Print Arch. Phys.
+Zeitschrift für Physik = Z. Phys.
